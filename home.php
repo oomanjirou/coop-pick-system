@@ -11,7 +11,7 @@
  <div class="col-md-12">
     <div class="panel">
       <div class="jumbotron text-center">
-         <h1>Welcome to <hr> e-Koop Inventory Management System</h1>
+         <h1>Welcome to COOP PICK SYSTEM MUAHAHA </h1>
          <p>Manage your inventory here!</p>
       </div>
     </div>
